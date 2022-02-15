@@ -1,0 +1,7 @@
+E:\unity\quark\Solid\SOLID-SRP_incorrecto\SOLID-SRP_incorrecto\bin\Debug\SOLID-SRP_incorrecto.exe.config
+E:\unity\quark\Solid\SOLID-SRP_incorrecto\SOLID-SRP_incorrecto\bin\Debug\SOLID-SRP_incorrecto.exe
+E:\unity\quark\Solid\SOLID-SRP_incorrecto\SOLID-SRP_incorrecto\bin\Debug\SOLID-SRP_incorrecto.pdb
+E:\unity\quark\Solid\SOLID-SRP_incorrecto\SOLID-SRP_incorrecto\obj\Debug\SOLID-SRP_incorrecto.csproj.AssemblyReference.cache
+E:\unity\quark\Solid\SOLID-SRP_incorrecto\SOLID-SRP_incorrecto\obj\Debug\SOLID-SRP_incorrecto.csproj.CoreCompileInputs.cache
+E:\unity\quark\Solid\SOLID-SRP_incorrecto\SOLID-SRP_incorrecto\obj\Debug\SOLID-SRP_incorrecto.exe
+E:\unity\quark\Solid\SOLID-SRP_incorrecto\SOLID-SRP_incorrecto\obj\Debug\SOLID-SRP_incorrecto.pdb
